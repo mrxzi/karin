@@ -41,7 +41,7 @@ function App() {
           zIndex: 1,
         }}
         camera={{
-          position: [0, 0, window.innerWidth > 800 ? 4 : 8],
+          position: [0, 0, window.innerWidth > 800 ? 4 : 6.5],
           fov: 45,
         }}
         gl={{ alpha: true }}
