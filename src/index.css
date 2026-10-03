@@ -6,7 +6,8 @@
 #root {
   width: 100vw;
   height: 100vh;
-  background: radial-gradient(#7b9864, #1f261a 80%);
+  background: #050b07;
+  position: relative;
 }
 
 body {
