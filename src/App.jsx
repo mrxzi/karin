@@ -10,7 +10,7 @@ function App() {
       <UI />
       <Loader />
       <Canvas shadows camera={{
-          position: [-0.5, 1, window.innerWidth > 800 ? 4 : 9],
+          position: [0, 0, window.innerWidth > 800 ? 4 : 8],
           fov: 45,
         }}>
         <group position-y={0}>
